@@ -1,0 +1,11 @@
+{
+  "name": "A. Blocked",
+  "source_file": "solutions/codeforces/A_Blocked.cpp",
+  "problem_url": "https://codeforces.com/contest/2220/problem/A",
+  "tests": [
+    {
+      "input": "4\n3\n1 5 9\n4\n1 3 3 2\n3\n1 2 3\n1\n1\n",
+      "output": "5 9 1\n-1\n3 1 2\n1\n"
+    }
+  ]
+}
