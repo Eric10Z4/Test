@@ -1,0 +1,11 @@
+{
+  "name": "B. OIE Excursion",
+  "source_file": "solutions/codeforces/B_OIE_Excursion.cpp",
+  "problem_url": "https://codeforces.com/contest/2220/problem/B",
+  "tests": [
+    {
+      "input": "6\n8 5\n0 4 0 2 1 0 0 3\n6 2\n1 0 1 0 1 0\n6 2\n1 1 1 1 0 1\n2 10\n6 9\n2 2\n0 1\n5 1000000000\n1 2 3 4 999999999\n",
+      "output": "YES\nYES\nNO\nYES\nYES\nYES\n"
+    }
+  ]
+}
