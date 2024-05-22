@@ -1,0 +1,11 @@
+{
+  "name": "P1007 独木桥",
+  "source_file": "solutions/luogu/P_1007_独木桥.cpp",
+  "problem_url": "https://www.luogu.com.cn/problem/P1007",
+  "tests": [
+    {
+      "input": "4\n2\n1 3\n",
+      "output": "2 4\n"
+    }
+  ]
+}
