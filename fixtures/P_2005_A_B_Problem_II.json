@@ -1,0 +1,11 @@
+{
+  "name": "P2005 A/B Problem II",
+  "source_file": "solutions/luogu/P_2005_A_B_Problem_II.cpp",
+  "problem_url": "https://www.luogu.com.cn/problem/P2005",
+  "tests": [
+    {
+      "input": "1000\n333\n",
+      "output": "3\n"
+    }
+  ]
+}
