@@ -1,0 +1,11 @@
+{
+  "name": "D1. Unique Values (Easy version)",
+  "source_file": "solutions/codeforces/D_1_Unique_Values_Easy_version.cpp",
+  "problem_url": "https://codeforces.com/contest/2220/problem/D1",
+  "tests": [
+    {
+      "input": "1\n2\n\n0\n\n2\n\n2\n\n0\n\n1\n",
+      "output": "\n? 2 1 2\n\n? 2 1 4\n\n? 2 1 5\n\n? 5 1 2 3 4 5\n\n? 4 1 2 3 4\n\n! 1 2 3\n"
+    }
+  ]
+}
