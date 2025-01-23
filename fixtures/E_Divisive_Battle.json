@@ -1,0 +1,11 @@
+{
+  "name": "E. Divisive Battle",
+  "source_file": "solutions/codeforces/E_Divisive_Battle.cpp",
+  "problem_url": "https://codeforces.com/contest/2200/problem/E",
+  "tests": [
+    {
+      "input": "4\n10\n10 9 8 7 6 5 4 3 2 1\n3\n1 8192 677\n2\n6 5\n2\n6 7\n",
+      "output": "Alice\nBob\nAlice\nBob\n"
+    }
+  ]
+}
