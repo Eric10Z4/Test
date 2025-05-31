@@ -1,0 +1,91 @@
+
+
+===== PAGE 1 =====
+Card Checking
+Input file: standard input
+Output file: standard output
+Time limit: 2 seconds
+Memory limit: 1024 megabytes
+You’re going to solve a problem related to the poker game “Landlords”.
+Game Introduction
+“Landlords” is a card game where three players take turns playing cards. Let the three players be A, B,
+and C, respectively. Each player holds some cards in their hand, and the game continues until one player
+has played all of their cards.
+Players A and B belong to the peasant team. If either A or B plays all of their cards, the peasants win.
+Player C alone forms the landlord team, and if C plays all of their cards, the landlord wins.
+Playing Rules
+In this problem, each card has an integer in[1, n] written on it, called the rank of the card. The ranks are
+in increasing order:1, 2, . . . , n.
+Only the following two types of card combinations are allowed in this problem:
+• Single: Any single card.
+• Double: Two cards of the same rank.
+Unlike in the usual Landlords game, in this problem, a player may play a single card only if he/she has
+exactly one card of that rank in hand. In other words, a pair in hand cannot be split into two single cards.
+In each round of play, one player will be the starting player of that round. The starting player acts first
+and can play any legal card combination. Then, starting from the next player, players take turns in order.
+On each player’s turn, they can make one of the following two decisions:
+• Play a card combination that is of the same type as the last played cards in the current round and
+has a strictly higher rank.
+• Choose to pass.
+After a player plays a combination, if the other two players both choose to pass in succession, the current
+round ends. At this point, the player who made the last successful play becomes the starting player of
+the next round. Then a new round starts.
+Problem
+In this problem, consider the following situation:
+Page 1 of 3
+
+===== PAGE 2 =====
+• The landlord, C, has only one card left, with rankpc.
+• The hands of the two peasants, A and B, are described by two stringssa and sb of lengthn, consisting
+only of the characters0, 1, and 2. Here, thei-th character indicates how many cards of ranki the
+corresponding player holds.
+All players’ hands are public information; that is, every player knows the exact cards held by all players
+when making decisions. Player A is the starting player of the first round, and the three players always
+take turns in the order A→ B → C → A → · · · . You need to determine whether the peasant team can
+win, assuming all players adopt optimal strategies.
+Input
+There are multiple test cases. The first line of the input contains an integerT (1 ≤ T ≤ 105), indicating
+the number of test cases. For each test case:
+The first line contains an integern (1 ≤ n ≤ 2.5 × 105).
+The second line contains a stringsa of length n, consisting only of 0, 1, and 2, indicating peasant A’s
+hand.
+The third line contains a stringsb of lengthn, consisting only of0, 1, and2, indicating peasant B’s hand.
+The fourth line contains an integerpc (1 ≤ pc ≤ n), indicating the rank of landlord C’s only card.
+It is guaranteed that each player has at least one card.
+It is also guaranteed that the sum ofn over all test cases does not exceed106.
+Output
+For each test case, output one line. If the peasant team can win, outputYes; otherwise, outputNo.
+Example
+standard input standard output
+4
+9
+001110201
+002110211
+7
+9
+110200000
+222000000
+7
+9
+222000000
+110000000
+7
+9
+111000002
+111000210
+7
+Yes
+No
+Yes
+No
+Note
+We explain the first sample test case below.
+Page 2 of 3
+
+===== PAGE 3 =====
+# A B C Play
+1 3,4,5,7,7,9 3,3,4,5,7,7,8,9 7 A (3) → B (8) → C (pass) → A (9) → B (pass) → C (pass)
+2 4,5,7,7 3,3,4,5,7,7,9 7 A (4) → B (9) → C (pass) → A (pass)
+3 5,7,7 3,3,4,5,7,7 7 B (3,3) → C (pass) → A (7,7) → B (pass) → C (pass)
+4 5 4,5,7,7 7 A (5)
+Page 3 of 3
