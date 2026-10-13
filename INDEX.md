@@ -1,0 +1,55 @@
+# 文件索引
+
+| 原文件 | 归档位置 |
+| --- | --- |
+| shenzhenE | [drafts/card-checking/shenzhenE.cpp](drafts/card-checking/shenzhenE.cpp) |
+| temp_card_checking.cpp | [drafts/card-checking/temp_card_checking.cpp](drafts/card-checking/temp_card_checking.cpp) |
+| solve.cpp | [drafts/multi-solution/solve.cpp](drafts/multi-solution/solve.cpp) |
+| tmp_arc.cpp | [drafts/unique-values/tmp_arc.cpp](drafts/unique-values/tmp_arc.cpp) |
+| tmp_brut.cpp | [drafts/unique-values/tmp_brut.cpp](drafts/unique-values/tmp_brut.cpp) |
+| tmp_cmp.cpp | [drafts/unique-values/tmp_cmp.cpp](drafts/unique-values/tmp_cmp.cpp) |
+| tmp_count.cpp | [drafts/unique-values/tmp_count.cpp](drafts/unique-values/tmp_count.cpp) |
+| tmp_fpfn.cpp | [drafts/unique-values/tmp_fpfn.cpp](drafts/unique-values/tmp_fpfn.cpp) |
+| tmp_local.cpp | [drafts/unique-values/tmp_local.cpp](drafts/unique-values/tmp_local.cpp) |
+| tmp_local2.cpp | [drafts/unique-values/tmp_local2.cpp](drafts/unique-values/tmp_local2.cpp) |
+| tmp_local3.cpp | [drafts/unique-values/tmp_local3.cpp](drafts/unique-values/tmp_local3.cpp) |
+| tmp_local_bigT.cpp | [drafts/unique-values/tmp_local_bigT.cpp](drafts/unique-values/tmp_local_bigT.cpp) |
+| tmp_misdir.cpp | [drafts/unique-values/tmp_misdir.cpp](drafts/unique-values/tmp_misdir.cpp) |
+| tmp_misdir2.cpp | [drafts/unique-values/tmp_misdir2.cpp](drafts/unique-values/tmp_misdir2.cpp) |
+| tmp_no33.cpp | [drafts/unique-values/tmp_no33.cpp](drafts/unique-values/tmp_no33.cpp) |
+| tmp_no44.cpp | [drafts/unique-values/tmp_no44.cpp](drafts/unique-values/tmp_no44.cpp) |
+| tmp_noD.cpp | [drafts/unique-values/tmp_noD.cpp](drafts/unique-values/tmp_noD.cpp) |
+| tmp_orrev.cpp | [drafts/unique-values/tmp_orrev.cpp](drafts/unique-values/tmp_orrev.cpp) |
+| tmp_path.cpp | [drafts/unique-values/tmp_path.cpp](drafts/unique-values/tmp_path.cpp) |
+| tmp_path2.cpp | [drafts/unique-values/tmp_path2.cpp](drafts/unique-values/tmp_path2.cpp) |
+| tmp_prefix.cpp | [drafts/unique-values/tmp_prefix.cpp](drafts/unique-values/tmp_prefix.cpp) |
+| tmp_seqcmp.cpp | [drafts/unique-values/tmp_seqcmp.cpp](drafts/unique-values/tmp_seqcmp.cpp) |
+| tmp_sets.cpp | [drafts/unique-values/tmp_sets.cpp](drafts/unique-values/tmp_sets.cpp) |
+| tmp_shift_test.cpp | [drafts/unique-values/tmp_shift_test.cpp](drafts/unique-values/tmp_shift_test.cpp) |
+| tmp_yes.cpp | [drafts/unique-values/tmp_yes.cpp](drafts/unique-values/tmp_yes.cpp) |
+| www.md | [extras/notes/www.md](extras/notes/www.md) |
+| find.py | [extras/video-tools/find.py](extras/video-tools/find.py) |
+| find_best_video.py | [extras/video-tools/find_best_video.py](extras/video-tools/find_best_video.py) |
+| test.py | [extras/video-tools/test.py](extras/video-tools/test.py) |
+| Card_Checking_题解.md | [notes/card-checking/Card_Checking_题解.md](notes/card-checking/Card_Checking_%E9%A2%98%E8%A7%A3.md) |
+| 2048 2.py | [python/basics/2048 2.py](python/basics/2048%202.py) |
+| 2048-1.py | [python/basics/2048-1.py](python/basics/2048-1.py) |
+| 实验1.py | [python/basics/实验1.py](python/basics/%E5%AE%9E%E9%AA%8C1.py) |
+| segment_tree.py | [python/data-structures/segment_tree.py](python/data-structures/segment_tree.py) |
+| test.ipynb | [python/notebooks/test.ipynb](python/notebooks/test.ipynb) |
+| statement_17757_extracted.txt | [references/card-checking/statement_17757_extracted.txt](references/card-checking/statement_17757_extracted.txt) |
+| A_Blocked.cpp | [solutions/codeforces/A_Blocked.cpp](solutions/codeforces/A_Blocked.cpp) |
+| B_OIE_Excursion.cpp | [solutions/codeforces/B_OIE_Excursion.cpp](solutions/codeforces/B_OIE_Excursion.cpp) |
+| C_Grid_L.cpp | [solutions/codeforces/C_Grid_L.cpp](solutions/codeforces/C_Grid_L.cpp) |
+| C_Specialty_String.cpp | [solutions/codeforces/C_Specialty_String.cpp](solutions/codeforces/C_Specialty_String.cpp) |
+| D_1_Unique_Values_Easy_version.cpp | [solutions/codeforces/D_1_Unique_Values_Easy_version.cpp](solutions/codeforces/D_1_Unique_Values_Easy_version.cpp) |
+| D_Portal.cpp | [solutions/codeforces/D_Portal.cpp](solutions/codeforces/D_Portal.cpp) |
+| E_Divisive_Battle.cpp | [solutions/codeforces/E_Divisive_Battle.cpp](solutions/codeforces/E_Divisive_Battle.cpp) |
+| Leetcode12.cpp | [solutions/leetcode/Leetcode12.cpp](solutions/leetcode/Leetcode12.cpp) |
+| P_1002_NOIP_2002_普及组_过河卒.cpp | [solutions/luogu/P_1002_NOIP_2002_普及组_过河卒.cpp](solutions/luogu/P_1002_NOIP_2002_%E6%99%AE%E5%8F%8A%E7%BB%84_%E8%BF%87%E6%B2%B3%E5%8D%92.cpp) |
+| P_1003_NOIP_2011_提高组_铺地毯.cpp | [solutions/luogu/P_1003_NOIP_2011_提高组_铺地毯.cpp](solutions/luogu/P_1003_NOIP_2011_%E6%8F%90%E9%AB%98%E7%BB%84_%E9%93%BA%E5%9C%B0%E6%AF%AF.cpp) |
+| P_1007_独木桥.cpp | [solutions/luogu/P_1007_独木桥.cpp](solutions/luogu/P_1007_%E7%8B%AC%E6%9C%A8%E6%A1%A5.cpp) |
+| P_2001_硬币的面值.cpp | [solutions/luogu/P_2001_硬币的面值.cpp](solutions/luogu/P_2001_%E7%A1%AC%E5%B8%81%E7%9A%84%E9%9D%A2%E5%80%BC.cpp) |
+| P_2004_领地选择.cpp | [solutions/luogu/P_2004_领地选择.cpp](solutions/luogu/P_2004_%E9%A2%86%E5%9C%B0%E9%80%89%E6%8B%A9.cpp) |
+| P_2005_A_B_Problem_II.cpp | [solutions/luogu/P_2005_A_B_Problem_II.cpp](solutions/luogu/P_2005_A_B_Problem_II.cpp) |
+| L1-006 连续因子.cpp | [solutions/pat/L1-006 连续因子.cpp](solutions/pat/L1-006%20%E8%BF%9E%E7%BB%AD%E5%9B%A0%E5%AD%90.cpp) |
