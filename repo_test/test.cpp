@@ -1,10 +1,12 @@
-#include <bits/stdc++.h>
+#include <algorithm>
+#include <iostream>
+#include <set>
+#include <vector>
 
 #define ll long long
 
 using namespace std;
 
-constexpr ll mod = 998244365;
 
 int main()
 {
@@ -24,7 +26,7 @@ int main()
         
         for (int i = 1; i <= n; i++) {
             if (st.find(a[i]) != st.end()) {
-                b += a[i] * 2;
+                b += a[i] * 2LL;
                 st.erase(a[i]);
                 c += 2;
             } else {
@@ -46,7 +48,7 @@ int main()
         }
         
         ll s = b;
-        for (int i = 0; i < nw.size(); i++) {
+        for (int i = 0; i < static_cast<int>(nw.size()); i++) {
             int l = i + 1, r = nw.size() - 1, re = -1;
             while (l <= r) {
                 int m = l + (r - l) / 2;
